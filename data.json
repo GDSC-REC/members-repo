@@ -1,14 +1,19 @@
 {
   "members": [
-    {
-     "name": "K.Lahari",
-     "title": "GDSC member!",
-     "college": "REC"
-    },
-    {
-     "name": "Nandan Yadav K",
-     "title": "GDSC Member",
-     "college": "Raghu Engineering College"
-    }
-    ]
+      {
+       "name": "K.Lahari",
+       "title": "GDSC member!",
+       "college": "REC"
+      },
+      {
+       "name": "Nandan Yadav K",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
+      },
+      {
+       "name": "Bhima Pavan Teja",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
+      }
+   ]
 }
