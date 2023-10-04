@@ -1,7 +1,69 @@
 {
-  {
-   "name": "Sadiya.Shaik",
-   "title": "GDSC core team Member",
-   "college": "Raghu Engineering College"
- }
+  "members": [
+      {
+       "name": "K.Lahari",
+       "title": "GDSC member!",
+       "college": "REC"
+      },
+      {
+       "name": "Nandan Yadav K",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
+      },
+      {
+       "name": "Bhima Pavan Teja",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Charan Manikanta N.",
+        "title": "CSI Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Vikas Varma",
+        "title": "GDSC Member",
+        "college": "Raghu"
+      },
+      {
+        "name": "K Rohan Karthik Var,a",
+        "title": "GDSC Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "K.Neha",
+        "title": "GDSC Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Dhanush",
+        "title": "Attendee",
+        "college": "Raghu engineering college"
+      },
+      {
+        "name": "Akhil",
+        "title": "GDSC Volunteer",
+        "college": "REC"
+      },
+      {
+        "name": "Priyanka Balivada",
+        "title": "GDSC and CSI member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Boora sri Harsha Vardhan",
+        "title": "GDSC MEMBER",
+        "college": "Raghu Engineering college"
+      },
+      {
+        "Pavan Kumar M",
+        "GDSC Member",
+        "Raghu Educational Institutions"
+      },
+      {
+        "name": "Sadiya.Shaik",
+        "title": "GDSC core team Member",
+        "college": "Raghu Engineering College"
+      }
+   ]
 }
