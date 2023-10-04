@@ -1,7 +1,29 @@
 {
-  {
-  "name": "Vikas Varma",
-  "title": "GDSC Member",
-  "college": "Raghu"
-  }
+  "members": [
+      {
+       "name": "K.Lahari",
+       "title": "GDSC member!",
+       "college": "REC"
+      },
+      {
+       "name": "Nandan Yadav K",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
+      },
+      {
+       "name": "Bhima Pavan Teja",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Charan Manikanta N.",
+        "title": "CSI Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Vikas Varma",
+        "title": "GDSC Member",
+        "college": "Raghu"
+      }
+   ]
 }
