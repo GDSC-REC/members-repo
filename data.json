@@ -39,6 +39,11 @@
         "name": "Dhanush",
         "title": "Attendee",
         "college": "Raghu engineering college"
+      },
+      {
+        "name": "Akhil",
+        "title": "GDSC Volunteer",
+        "college": "REC"
       }
    ]
 }
