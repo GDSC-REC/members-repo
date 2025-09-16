@@ -1,9 +1,19 @@
 {
   "members": [
       {
-       "name": "K.Lahari",
-       "title": "GDSC member!",
-       "college": "REC"
+        "name": "Charan Manikanta N.",
+        "title": "GDSC Lead & CSI Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "A Vidhan Reddy",
+        "title": "GDSC Core Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+       "name": "K Lahari",
+       "title": "GDSC Member",
+       "college": "Raghu Engineering College"
       },
       {
        "name": "Nandan Yadav K",
@@ -16,22 +26,17 @@
        "college": "Raghu Engineering College"
       },
       {
-        "name": "Charan Manikanta N.",
-        "title": "CSI Member",
-        "college": "Raghu Engineering College"
-      },
-      {
         "name": "Vikas Varma",
         "title": "GDSC Member",
-        "college": "Raghu"
+        "college": "Raghu Engineering College"
       },
       {
-        "name": "K Rohan Karthik Var,a",
+        "name": "K Rohan Karthik Varma",
         "title": "GDSC Member",
         "college": "Raghu Engineering College"
       },
       {
-        "name": "K.Neha",
+        "name": "K Neha",
         "title": "GDSC Member",
         "college": "Raghu Engineering College"
       },
@@ -43,32 +48,32 @@
       {
         "name": "Akhil",
         "title": "GDSC Volunteer",
-        "college": "REC"
-      },
-      {
-        "name": "Priyanka Balivada",
-        "title": "GDSC and CSI member",
         "college": "Raghu Engineering College"
       },
       {
-        "name": "Boora sri Harsha Vardhan",
-        "title": "GDSC MEMBER",
-        "college": "Raghu Engineering college"
+        "name": "Priyanka Balivada",
+        "title": "GDSC and CSI Member",
+        "college": "Raghu Engineering College"
       },
       {
-        "Pavan Kumar M",
-        "GDSC Member",
-        "Raghu Educational Institutions"
+        "name": "Boora Sri Harsha Vardhan",
+        "title": "GDSC Member",
+        "college": "Raghu Engineering College"
       },
       {
-        "name": "Sadiya.Shaik",
-        "title": "GDSC core team Member",
+        "name": "Pavan Kumar M",
+        "title": "GDSC Member",
+        "college": "Raghu Engineering College"
+      },
+      {
+        "name": "Sadiya Shaik",
+        "title": "GDSC Core Member",
         "college": "Raghu Engineering College"
       },
       {
         "name": "Jayachandra Kosetti",
-        "title": "GDSC and CSI member",
+        "title": "GDSC & CSI Member",
         "college": "Raghu Engineering College"
-      },
+      }
    ]
 }
